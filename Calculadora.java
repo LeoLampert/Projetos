@@ -1,5 +1,4 @@
-/**A classe de entrada são 3 números.
- * Autor: Leonardo Avila Lampert
+/**Autor: Leonardo Avila Lampert
  * Data: 11/03/2024
  */
 import java.util.Scanner; 
